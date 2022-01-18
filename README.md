@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pinghsuanlin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Pinghsuanlin Sherie
+- 👀 I’m interested in implementation of sustainable approach, cryptocurrency or anything that's fun and I could learn from
+- 🌱 I’m currently learning Machine Learning, Strategy and Analytics
+- 💞️ I’m looking to collaborate on data analytics project, and actively seeking for 2022 summer intern
+- 📫 Reach me at [linkedin](https://www.linkedin.com/in/pinghsuanlin)
 
 <!---
 Pinghsuanlin/Pinghsuanlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
