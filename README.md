@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pinghsuanlin Sherie
 - 👀 I’m interested in implementation of sustainable approach, cryptocurrency or anything that's fun and I could learn from
 - 🌱 I’m currently learning Machine Learning, Strategy and Analytics
-- 💞️ I’m looking to collaborate on data analytics project, and actively seeking for 2022 summer intern
+- 💞️ I’m looking to collaborate on data science project, and actively seeking for a full time job for data science role.
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/pinghsuanlin)
 
 <!---
