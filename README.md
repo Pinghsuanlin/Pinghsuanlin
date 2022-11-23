@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pinghsuanlin Sherie
-- 👀 I’m a data enthusiast who like to regulate, strucutre data and extract useful information from it.
+- 👀 I’m a data enthusiast who like to regulate, strucutre data and extract useful information from data.
 - 🌱 I enjoy learning new concept, and learning from experiments.
 - 💞️ I’m looking to collaborate on data science project, and actively seeking a full time data science role.
 - 📫 Reach me at [linkedin](https://www.linkedin.com/in/pinghsuanlin)
